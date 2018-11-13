@@ -21,3 +21,7 @@ Installation of the customized implementation of RuleFit:
 ```
 pip install -e ./rulefitcustom
 ```
+
+----
+
+For consulting on explainable machine learning, please contact me at at http://benoit.paris
