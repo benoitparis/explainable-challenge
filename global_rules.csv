@@ -1,0 +1,82 @@
+,rule,coef,direction
+1,AverageMInFile <= 59.5,0.002913332403885699,decreasing
+67,AverageMInFile > 59.5,-0.025866931761360613,decreasing
+65,AverageMInFile <= 63.5,0.005612127088600845,decreasing
+24,AverageMInFile <= 69.5,0.00057126101362237,decreasing
+18,AverageMInFile <= 75.5,0.02612065270638581,decreasing
+72,AverageMInFile > 75.5,-0.0032516446426471123,decreasing
+26,AverageMInFile <= 81.5,0.0150941427355453,decreasing
+31,AverageMInFile > 95.5,-0.0010742370489620957,decreasing
+55,AverageMInFile <= 95.5,8.757842172915604e-05,decreasing
+58,ExternalRiskEstimate <= 63.5,0.026423200687974005,decreasing
+71,ExternalRiskEstimate > 63.5,-0.00016842907264645677,decreasing
+3,ExternalRiskEstimate <= 65.5,0.007184840160180204,decreasing
+27,ExternalRiskEstimate > 67.5,-0.017616540075051663,decreasing
+47,ExternalRiskEstimate <= 67.5,0.017292537403007898,decreasing
+2,ExternalRiskEstimate <= 70.5,0.017146842040638353,decreasing
+56,ExternalRiskEstimate > 70.5,-0.0540797555490946,decreasing
+10,ExternalRiskEstimate > 73.5,-0.0024546443119470847,decreasing
+73,ExternalRiskEstimate <= 73.5,0.01320480682330974,decreasing
+30,ExternalRiskEstimate > 74.5,-0.0492091662522872,decreasing
+50,ExternalRiskEstimate <= 74.5,0.0007361469076887487,decreasing
+51,ExternalRiskEstimate <= 75.5,0.0226185344476089,decreasing
+9,ExternalRiskEstimate <= 78.5,0.038973448186783985,decreasing
+74,ExternalRiskEstimate > 78.5,-0.00406713635184879,decreasing
+49,ExternalRiskEstimate > 80.5,-0.02255573124085941,decreasing
+53,ExternalRiskEstimate <= 80.5,0.00025554280577351306,decreasing
+38,ExternalRiskEstimate > 81.5,-0.003179126297829673,decreasing
+48,ExternalRiskEstimate > 83.5,-0.014516345415758539,decreasing
+66,MSinceMostRecentDelq <= -3.5,-0.004287268573200817,increasing
+25,MSinceMostRecentDelq <= 23.5,0.0007108932709506231,decreasing
+54,MSinceMostRecentDelq > 34.5,-0.00010241817492109498,decreasing
+15,MSinceMostRecentInqexcl7days <= -7.5,-0.06942181426360085,increasing
+41,MSinceMostRecentInqexcl7days > -7.5,0.004902938262951355,increasing
+14,MSinceMostRecentInqexcl7days > 0.5,-0.022514287592138933,decreasing
+59,MSinceMostRecentInqexcl7days <= 0.5,0.0020642642657867235,decreasing
+70,MSinceOldestTradeOpen <= 146.5,0.010846906469086622,decreasing
+5,MSinceOldestTradeOpen <= 216.5,0.0020251460846461354,decreasing
+44,MSinceOldestTradeOpen > 251.5,-0.002161879770154241,decreasing
+11,MaxDelq2PublicRecLast12M <= 5.5,0.012129524348174511,decreasing
+16,MaxDelq2PublicRecLast12M > 5.5,-0.005223980140741144,decreasing
+63,NetFractionRevolvingBurden <= 13.5,-0.013537672284758303,increasing
+35,NetFractionRevolvingBurden > 15.5,0.002752878000838053,increasing
+19,NetFractionRevolvingBurden > 16.5,0.000863291247691764,increasing
+29,NetFractionRevolvingBurden <= 16.5,-0.001401183527842259,increasing
+8,NetFractionRevolvingBurden > 23.5,0.006949655089929148,increasing
+22,NetFractionRevolvingBurden <= 23.5,-0.0034323185575291263,increasing
+40,NetFractionRevolvingBurden <= 37.5,-0.044658260554623776,increasing
+77,NetFractionRevolvingBurden > 46.5,0.002724711842493088,increasing
+64,NetFractionRevolvingBurden > 48.5,0.01360954386377994,increasing
+23,NetFractionRevolvingBurden > 59.5,0.03263697097704252,increasing
+68,NumInqLast6M > 0.5,0.004482733470966278,increasing
+37,NumInqLast6M > 1.5,0.019192734045750223,increasing
+36,NumRevolvingTradesWBalance <= 5.5,-0.023493175463508327,increasing
+52,NumRevolvingTradesWBalance > 5.5,7.758946264832577e-05,increasing
+57,NumRevolvingTradesWBalance > 7.5,0.005505952831266791,increasing
+34,NumSatisfactoryTrades <= 12.5,0.025707055604916908,decreasing
+61,NumSatisfactoryTrades <= 14.5,0.004893101508671732,decreasing
+62,NumSatisfactoryTrades <= 17.5,0.003524004271697192,decreasing
+46,NumSatisfactoryTrades <= 18.5,0.012612541780683767,decreasing
+42,NumSatisfactoryTrades > 22.5,-0.016047154674256818,decreasing
+6,NumSatisfactoryTrades > 26.5,-0.018034592133191155,decreasing
+0,NumSatisfactoryTrades > 27.5,-0.0012268036603738624,decreasing
+80,NumSatisfactoryTrades <= 27.5,0.0019378929768739182,decreasing
+13,PercentInstallTrades > 43.5,0.0018973005073755706,increasing
+45,PercentInstallTrades <= 43.5,-0.0118234751618592,increasing
+33,PercentInstallTrades <= 45.5,-0.022522929245430732,increasing
+78,PercentInstallTrades > 47.5,0.012863239547939274,increasing
+20,PercentTradesNeverDelq <= 85.5,0.004532760300423692,decreasing
+39,PercentTradesNeverDelq > 95.5,-0.015579815716915621,decreasing
+32,PercentTradesNeverDelq <= 96.5,0.0178731065824419,decreasing
+60,PercentTradesWBalance > 49.0,0.004409293356343836,increasing
+28,PercentTradesWBalance > 66.0,0.0005961852449957139,increasing
+17,PercentTradesWBalance > 73.5,0.011981702846659255,increasing
+12,PercentTradesWBalance > 80.5,0.010619990045811644,increasing
+4,AverageMInFile > 61.5 & ExternalRiskEstimate > 67.5,-0.0033180181505165327,
+7,MSinceMostRecentInqexcl7days <= 0.5 & MSinceMostRecentInqexcl7days > -7.5,0.06874180715432782,
+21,PercentTradesNeverDelq > 92.5 & AverageMInFile > 52.5,-0.027795079202145818,
+43,MSinceMostRecentInqexcl7days > -7.5 & MSinceMostRecentInqexcl7days <= 1.5,0.03228622658431158,
+69,PercentTradesNeverDelq > 86.5 & AverageMInFile > 67.5,-0.0019578478335541384,
+75,PercentTradesNeverDelq > 94.5 & AverageMInFile > 51.5,-0.000991652636147964,
+76,NumSatisfactoryTrades > 13.5 & ExternalRiskEstimate > 68.5,-0.005437459734211479,
+79,MaxDelq2PublicRecLast12M > 5.5 & NumSatisfactoryTrades > 6.5,-0.008659911737941938,
