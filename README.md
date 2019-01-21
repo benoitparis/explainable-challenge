@@ -1,6 +1,6 @@
 ## Explainable Machine Learning Challenge
 
-This is my proposal for the [explainable.ml](http://explainable.ml) challenge organised by FICO, Google, NIPS.
+This is my proposal for the [explainable.ml](https://community.fico.com/s/explainable-machine-learning-challenge) challenge organised by FICO, Google, NIPS.
 
 [Here is the paper which details my approach](https://github.com/benoitparis/explainable-challenge/raw/master/Decision%20tree%20node%20participation%20as%20a%20tool%20for%20interpretability.pdf). 
 
